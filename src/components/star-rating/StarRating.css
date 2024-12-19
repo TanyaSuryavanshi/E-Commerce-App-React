@@ -1,0 +1,10 @@
+.star-rating {
+  display: flex;
+  font-size: 18px;
+  color: #10847e;
+}
+
+.star img {
+  margin-right: 4px;
+  line-height: 1;
+}

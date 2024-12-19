@@ -1,0 +1,28 @@
+.app-container{
+  position: relative;
+  padding: 20px;
+  background-color: #f7f7f7;
+}
+
+.view-cart{
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  display: block;
+  background-color: #10847e;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.2s ease;
+}
+
+.view-cart:hover {
+  opacity: 1;
+  background-color: #0d4f44;
+  transition: all .2s linear;
+}
