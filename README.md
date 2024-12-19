@@ -32,7 +32,7 @@ This is a modern, responsive e-commerce web application built using **React** an
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/TanyaSuryavanshi/E-Commerce-App-React
    ```
 2. Navigate to the project directory:
    ```bash
