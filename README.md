@@ -9,8 +9,6 @@ This is a modern, responsive e-commerce web application built using **React** an
 - [Project Structure](#project-structure)
 - [Scripts](#scripts)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
